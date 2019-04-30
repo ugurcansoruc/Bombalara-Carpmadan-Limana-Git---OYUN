@@ -1,1 +1,3 @@
-# Get-to-the-harbor-without-hitting-the-bombs-Game---Data-Structures-
+# Bombalara çarpmadan limana git (Veri Yapıları - Oyun)
+
+Oyundaki amaç, bir bölgenin rastgele liman olarak belirlenmesi ve bölgeye rastgele mayınların yerleştirilmesinin ardından başlangıç noktasında bulunan gemiyi mayınlara çapmadan limana ulaştırmaktır. Oyunda 3 hakkımız bulunmak. Herhangi bir zamanda bombaya çarpıldığında ceza olarak belli miktarda puan ve bombaya çarpıldığı konundan önce bulunan bir adıma oyun sizi yollamakta. Oyunda tekrar seçeneği bulunmakta, bu seçenek ile nasıl bir oyun oynadığınızı tekrar görüntüleme imkanıda sunmakta. Limana kim en az hasar ve en yüksek puan ile ulaşabilecek, bu sorunun cevabını sizler vereceksiniz :)
